@@ -1,0 +1,75 @@
+body{
+    background-image: url("https://images2.alphacoders.com/130/1306168.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+
+div{
+    margin-bottom: 150px;
+
+}
+
+div.navbar{
+        margin-bottom: 50px;
+        padding:20px ;
+        text-align: center;
+        background-color: rgb(115, 153, 236);
+}
+
+h1{
+    color: linen;
+    text-align: center;
+    padding-bottom: 30px ;
+    font-family: inherit;
+
+}
+
+img.img-whey{
+    
+    width: 200px;
+    height: 40%;
+    padding: 50px;
+}
+
+div.whey{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:darkgrey;
+    border-radius: 20px;
+    padding: 10px;
+}
+h4{
+    color: rgb(139, 42, 42);
+    font-family: sans-serif;
+}
+
+p{
+    color: rgb(139, 42, 42);
+    font-family: sans-serif;
+
+}
+
+div.creatina{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:darkgrey;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+div.coqueteleira{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:darkgrey;
+    border-radius: 20px;
+    padding: 10px
+
+}
